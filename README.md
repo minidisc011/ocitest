@@ -1,2 +1,2 @@
 # ocitest
-test for oci
+test for oci - Resource Manager using Infrastructure as Code
